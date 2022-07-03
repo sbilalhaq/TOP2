@@ -1,1 +1,2 @@
-Test message
+Connected two vpc's with TGW. Segmented the vpcs and edited the tgw route tables. 
+Tested connectivity by deploying two instances. One in each vpc and creating an igw. Then edited the route tables and security groups. Then I pinged from instance to the other. 
